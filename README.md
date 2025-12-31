@@ -55,3 +55,9 @@ Without explicitly defining tumor shape, the model exhibits:
 These structures emerge purely from local rules and diffusion dynamics.
 
 ---
+
+## 👥 Contributors
+
+- **Sidhhesh Phadke**
+- **Sahasra Oleti**
+- **Atharva Shetwe**
